@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "signature_uri": "https://raw.githubusercontent.com/firstlookmedia/keylist-test/master/keylist/keylist.json.asc",
+    "signature_uri": "https://raw.githubusercontent.com/micahflee/keylist-test/master/keylist/keylist.json.asc",
     "comment": "The GPG Sync example keylist"
   },
   "keys": [
